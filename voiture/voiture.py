@@ -1,4 +1,3 @@
-
 class Voiture :
     def __init__(self):
         self.essence = 100
